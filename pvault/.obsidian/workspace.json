@@ -6,12 +6,12 @@
       {
         "id": "d9b323b0160d0228",
         "type": "split",
-        "dimension": 35,
+        "dimension": 40.258620689655174,
         "children": [
           {
             "id": "20884780676d2be6",
             "type": "tabs",
-            "dimension": 59.08639523336644,
+            "dimension": 62.06554121151936,
             "children": [
               {
                 "id": "d1de67be66dc4e59",
@@ -19,12 +19,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "CS50/CS50.md",
+                    "file": "base/binary/Binary.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "CS50"
+                  "title": "Binary"
                 }
               }
             ]
@@ -32,7 +32,7 @@
           {
             "id": "d14840fbbbc9d379",
             "type": "tabs",
-            "dimension": 40.91360476663357,
+            "dimension": 37.93445878848063,
             "children": [
               {
                 "id": "08b09e0796a97527",
@@ -52,7 +52,7 @@
       {
         "id": "15f94a5ab2f062d8",
         "type": "tabs",
-        "dimension": 65,
+        "dimension": 59.741379310344826,
         "children": [
           {
             "id": "155fcc936006b8f5",
@@ -60,12 +60,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "main/base-x/binary/Binary.md",
+                "file": "! Main.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Binary"
+              "title": "! Main"
             }
           }
         ]
@@ -142,23 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "main/base-x/binary/Binary.md",
+                "file": "! Main.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Binary"
-            }
-          },
-          {
-            "id": "303a30a15d339088",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
+              "title": "Outline of ! Main"
             }
           },
           {
@@ -175,9 +165,19 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
+          },
+          {
+            "id": "82f5667968f5cb06",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "646381999af0f49a",
@@ -213,42 +213,42 @@
       "workspaces:Manage workspace layouts": true
     }
   },
-  "active": "155fcc936006b8f5",
+  "active": "484401c3b7f3ae8c",
   "lastOpenFiles": [
+    "Memory.md",
+    "! Main.md",
+    "base/ASCII.md",
     "CS50/Computer Science.md",
-    "main/base-x/binary/Binary.md",
+    "base/Unary.md",
+    "base/base.md",
+    "base/Decimal.md",
+    "base/binary/byte.md",
+    "base/binary/bit.md",
+    "base/binary/Binary.md",
     "CS50/CS50.md",
-    "main/languages/C.md",
-    "main/base-x/binary/byte.md",
-    "main/Game development.md",
-    "main/base-x/binary/bit.md",
     "CS50/weeks/Week 0 - Scratch.md",
-    "main/base-x/Decimal.md",
-    "main/Memory.md",
+    "languages/C.md",
+    "Game development.md",
     "CS50/CSVISUAL.canvas",
-    "main/base-x/Unary.md",
-    "main/base-x/binary",
-    "main/base-x",
+    "base/binary",
+    "base",
     "Canases",
-    "main/engines/Scratch.md",
-    "main/languages/CSharp.md",
-    "main/languages/GDScript.md",
-    "main/languages/LUA.md",
+    "engines/Scratch.md",
+    "languages/CSharp.md",
+    "languages/GDScript.md",
+    "languages/LUA.md",
     "CS50/weeks/Week 1.md",
     "CS50/weeks/Week AI.md",
     "CS50/weeks/Week 7.md",
-    "Main.md",
     "CS50/weeks/Week 10.md",
     "CS50/weeks/Week 9.md",
     "CS50/weeks/Week 8.md",
     "CS50/weeks/Week 6.md",
     "CS50/weeks/Week 5.md",
-    "CS50/weeks/Week 4.md",
-    "CS50/weeks/Week 3.md",
     "CS50/weeks",
     "CS50",
-    "main/languages",
-    "main/engines",
+    "languages",
+    "engines",
     "main",
     "Untitled.base"
   ]

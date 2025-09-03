@@ -1,7 +1,5 @@
 #system 
-Binary/base-2,
-
-Two possible states, ON or OFF. Most commonly seen in [[Computer Science]].
+Binary/base-2, two possible states, ON or OFF. Most commonly seen in [[Computer Science]].
 
 Counting in binary:
 
@@ -45,9 +43,9 @@ $$
 previous * 2
 $$
 
-Though singular bits aren't all too useful, so the standard unit of measurement when handling computer memory/storage is [[byte]]s.
+Though singular bits aren't all too useful, so the standard digit of measurement when handling computer memory/storage is [[byte]]s.
 
 
 
-## Representing letters
+## Representing letters / [[ASCII]]
 By taking the alphabet and assigning a value to each letter you can represent the alphabet in binary form! And such around 100 years ago it was decided in a room that  " A " would be represented by 01000001, who's value is 65. B being 66 and so on.
