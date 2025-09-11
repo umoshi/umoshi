@@ -1,3 +1,8 @@
+# MOVED TO CODEBERG BECAUSE OF AI-CLAUSE IN TOS OF ANY PROJECT ON GITHUB FIND ME THERE OR ON MY LINKED WEBSIDE
+
+
+
+
 haii, I'm umoshi
 
 ![Soke1](https://github.com/user-attachments/assets/381d1e69-a6f8-401c-ae24-7e5a2b086127)
